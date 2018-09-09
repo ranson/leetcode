@@ -23,6 +23,7 @@ class Solution(object):
         if isUpper and  upperCnt == 1:
             return True
         return False
+
 solution = Solution()
 word = "USA"
 print(word)
